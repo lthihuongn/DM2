@@ -41,9 +41,9 @@ int main() {
     }
 
     if (lettres_Restantes == 0) {
-        printf("Bravo, vous avez gagne !");
+        printf("Bravo, vous avez gagne ! Le mot etait DONILDE.");
     } else {
-        printf("Desole, vous avez perdu");
+        printf("Vous avez perdu. Le mot etait DONILDE.");
     }
 
     return 0;
